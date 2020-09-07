@@ -2,7 +2,7 @@
  * @Author: Dong
  * @Date: 2020-04-12 05:27:52
  * @LastEditors: Dong
- * @LastEditTime: 2020-09-06 21:15:35
+ * @LastEditTime: 2020-09-07 19:48:51
  */
 import loadable from '@loadable/component';
 import { RouteInterface } from '@/types/route';
